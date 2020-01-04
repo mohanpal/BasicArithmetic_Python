@@ -1,0 +1,4 @@
+a = input('First Number: ')
+b = input('Second Number: ')
+c = float(a) - float(b)
+print("Division:", c)
